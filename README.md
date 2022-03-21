@@ -12,7 +12,6 @@ Documento das especificações técnicas– descrição detalhada do modelo de d
 Espaço de trabalho para o desenvolvimento da base de dados das especificações técnicas de cartografia topográfica da Região Autónoma da Madeira.
 
 Especificações técnicas v1.0: https://github.com/dr-ord-territorio/RECART_RAM/wiki/Especifica%C3%A7%C3%B5es-t%C3%A9cnicas
-
 Especificações técnicas v1.2 (em vigor): https://irig.madeira.gov.pt/index.php/recursos/utilitarios
 
 Base De Dados Geográficos em PostgreSQL/PostGIS: https://github.com/dr-ord-territorio/RECART_RAM/blob/560e386a818cb418e54af4c49715289e71a40708/source%20code.7z
